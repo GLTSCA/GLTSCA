@@ -31,19 +31,21 @@
 </div>
 
 ---
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GLTSCA/GLTSCA/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GLTSCA/GLTSCA/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GLTSCA/GLTSCA/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">🟩 Contribution Snake</h2>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/GLTSCA/GLTSCA/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake dark" />
+</p>
 
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GLTSCA&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLTSCA&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GLTSCA&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLTSCA&layout=compact&theme=tokyonight" height="150" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GLTSCA&theme=tokyonight" height="150" />
 </div>
+

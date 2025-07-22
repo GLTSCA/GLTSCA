@@ -35,11 +35,12 @@
 <h2 align="left">🟩 Contribution Snake</h2>
 
 <picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GLTSCA/GLTSCA/output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GLTSCA/GLTSCA/output/pacman-contribution-graph-dark.svg">
-
-
-  <img src="https://raw.githubusercontent.com/GLTSCA/GLTSCA/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake dark" />
+ 
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GLTSCA/GLTSCA/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 ---
